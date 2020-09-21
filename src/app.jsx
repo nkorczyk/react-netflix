@@ -1,5 +1,7 @@
 import React from 'react';
 
-const App = () => <div>Hello</div>;
+import Jumbotron from './components/jumbotron';
+
+const App = () => <Jumbotron />;
 
 export default App;
